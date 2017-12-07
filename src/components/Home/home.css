@@ -1,0 +1,7 @@
+.homeImage {
+  height: 500px;
+}
+
+.homeImage:hover {
+  float: left;
+}
